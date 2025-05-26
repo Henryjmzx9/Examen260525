@@ -2,7 +2,7 @@ package ejerciciotrabajadores;
 
 public class Main {
     public static void main(String[] args) {
-        Futbolista jugador = new Futbolista(1, "Carlos", "Gómez", 28, 10, "Delantero");
+        Futbolista jugador = new Futbolista(1, "Neymar", "Jr", 28, 10, "Delantero");
         Entrenador tecnico = new Entrenador(2, "Miguel", "Pérez", 50, "FED123");
         Masajista masajista = new Masajista(3, "Sofía", "Martínez", 35, "Fisioterapia", 8);
 
